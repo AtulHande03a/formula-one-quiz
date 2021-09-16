@@ -63,6 +63,22 @@ var questions = [{
               c. four`,
   answer  :   "c"
 
+},{
+  question : `Who won Italian gp 2021?
+              a. vettel
+              b. daniel riccardo
+              c. Bottas`,
+  answer  :   "b"
+
+},
+{
+  question : `Which team will George Russel will join in 2022?
+              a. ferrari
+              b.alpine racing
+              c. mercedes amg`,
+  answer  :   "c"
+
+
 }];
 
 //gamelogic
